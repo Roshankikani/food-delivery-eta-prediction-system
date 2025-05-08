@@ -180,8 +180,3 @@ if __name__ == "__main__":
                     artifact_path=artifact_uri,
                     model_name=model_name)
     logger.info("Model Information saved")
-    
-    
-    
-    
-    
