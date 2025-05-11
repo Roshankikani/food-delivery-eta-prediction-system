@@ -90,7 +90,7 @@ Design and operationalize a machine learning pipeline that generalizes well over
 
 - **Final Model**: StackingRegressor (LGBM + RandomForest)
 - **Accuracy**: ~85% 
-- **Error Distribution**: Majority predictions within ±5 min deviation
+- **Error Distribution**: Majority predictions within ±4 min deviation
 - **Inference Speed**: ~20ms per sample on CPU
 
 ---
